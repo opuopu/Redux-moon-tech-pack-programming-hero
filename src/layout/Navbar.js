@@ -9,7 +9,7 @@ const Navbar = () => {
       <ul className='h-full  mx-auto flex justify-between items-center gap-3 font-semibold text-indigo-900'>
         <h1 className='flex-1'>Moon Tech</h1>
         <li>
-          <Link to='/'>Home</Link>
+          <Link to='/Home'>Home</Link>
         </li>
         <li>
           <Link to='/top-rated'>Top Rated</Link>
